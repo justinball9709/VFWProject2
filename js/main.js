@@ -1,6 +1,6 @@
 //Justin Ball
 //Project 2
-
+//November 2, 2012
 window.addEventListener("DOMloadup", function)
 {
 	//Function getElementById
