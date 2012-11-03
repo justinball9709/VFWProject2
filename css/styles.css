@@ -1,5 +1,6 @@
 /* Justin Anthony Ball 
 Visual Frameworks
+November 2, 2012
 Project Week 2 */
 
 body {
@@ -29,3 +30,20 @@ li{
 	visibility: hidden;
 		
 }
+
+section{	
+	background: #87cefa;
+}
+input[type="text"]{
+
+	border: 1px solid black;
+	padding: 5px;
+	width: 200px;
+}
+input[type="password"]{
+	border: 1px solid black;
+	padding: 5px;
+	width: 200px;
+}
+
+.hasFocus{border: 2px solid #ff0000};
